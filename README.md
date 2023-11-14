@@ -2,14 +2,14 @@
 # Discription
 Create a login page that includes a "registrer User" option. The application will have the following key features:
 
-Task Creation and Editing:
+# Task Creation and Editing:
 
 User can register, login and can see the information about them 
 Task List Display:
 
 Users can register themselves and login.
 
-User-friendly Interface:
+# User-friendly Interface:
 
 Intuitive and responsive design for seamless user interaction.
 Implement a user-friendly interface for adding, editing, and deleting tasks.
