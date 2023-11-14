@@ -1,0 +1,17 @@
+body {
+    background-color: #f8f9fa;
+}
+
+.login-container form {
+    width: 25vw;
+    margin-top: 100px;
+}
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-redirection {
+    text-align: right;
+}
